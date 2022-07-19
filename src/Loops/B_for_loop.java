@@ -1,0 +1,12 @@
+// print 0-10 numbers using for loop
+
+public class B_for_loop {
+    public static void main(String[] args)
+    {
+        for(int i=0;i<=10;i++)
+        {
+            System.out.println(i);
+        }
+    }
+}
+
